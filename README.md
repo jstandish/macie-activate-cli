@@ -11,7 +11,7 @@ Pricing https://aws.amazon.com/macie/pricing/
 # How do I run this?
 ### Prerequisite
 - Must have python3 installed
-- Must have the latest version of boto3
+- Must have the latest version of boto3 and botocore
 
 ### Run steps
 1. Add your AWS credentials to as ENV variables, e.g. EXPORT ....
