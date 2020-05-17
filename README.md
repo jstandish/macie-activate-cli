@@ -13,4 +13,4 @@
 ### Run steps
 1. Add your AWS credentials to as ENV variables, e.g. EXPORT ....
 2. Run `pip3 install -r requirements.txt`
-3. Run `python3 importAccounts.py`
+3. Run `./macie-activate`
