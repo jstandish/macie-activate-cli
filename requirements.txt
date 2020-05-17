@@ -1,0 +1,15 @@
+requests==2.22.0
+configparser==4.0.2
+boto3
+urllib3
+botocore
+pytest
+ansicolors
+tabulate
+PyInquirer
+PyInstaller
+filelock
+colorama
+mock
+requests-mock
+gitpython
