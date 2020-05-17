@@ -1,12 +1,15 @@
 # What does this do?
-- Enables Macie in the root AWS organizations account
-- Delegates Macie access to the AWS organization root account
-- Adds child accounts to the root Macie account
+- Enables Amazon Macie in the root AWS organizations account
+- Delegates Amazon Macie access to the AWS organization root account
+- Adds child accounts to the root Amazon Macie account
 
-# You assume all resonsibility for running this. Review the scripts carefully!
+# AMAZON MACIE IS NOT A FREE SERVICE
+Pricing https://aws.amazon.com/macie/pricing/
+# You assume all responsibility for running this. Review the scripts carefully!
+
 
 # How do I run this?
-### Prerequiste
+### Prerequisite
 - Must have python3 installed
 - Must have the latest version of boto3
 
