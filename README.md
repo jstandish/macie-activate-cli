@@ -14,6 +14,6 @@ Pricing https://aws.amazon.com/macie/pricing/
 - Must have the latest version of boto3 and botocore
 
 ### Run steps
-1. Add your AWS credentials to as ENV variables, e.g. EXPORT ....
+1. Add your AWS credentials as ENV variables, e.g. EXPORT ....
 2. Run `pip3 install -r requirements.txt`
 3. Run `./macie-activate`
